@@ -11,13 +11,13 @@ A simple browser-based number guessing game built with HTML, CSS, and JavaScript
 
 ## Files
 
-- `homepage.html` - Main game page and layout.
+- `index.html` - Main game page and layout.
 - `style.css` - Page styling and responsive design.
 - `game.js` - Game logic for validating guesses and showing feedback.
 
 ## Usage
 
-1. Open `homepage.html` in a web browser.
+1. Open `index.html` in a web browser.
 2. Enter a number between 1 and 100.
 3. Click **Check** to submit your guess.
 4. Follow the feedback until you find the correct number.
